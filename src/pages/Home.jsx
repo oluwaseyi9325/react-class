@@ -11,7 +11,7 @@ const Home = () => {
     return (
       <Wrapper active="Dashboard">
      
-
+   This is our home paghe weboste now , we dont need u here
     </Wrapper>
   )
 }
